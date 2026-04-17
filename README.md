@@ -35,13 +35,13 @@ This dashboard transforms raw agricultural market data into actionable insights 
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](Dashboard/executive.png)
 
 ### Volatility Analysis
-![Volatility Analysis](screenshots/volatility-analysis.png)
+![Volatility Analysis](Dashboard/volatility analysis.png)
 
 ### Market Opportunity
-![Market Opportunity](screenshots/market-opportunity.png)
+![Market Opportunity](Dashboard/market opportunity.png)
 
 ## Files in This Repository
 - `README.md`
