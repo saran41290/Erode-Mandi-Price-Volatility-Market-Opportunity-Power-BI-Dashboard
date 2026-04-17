@@ -18,11 +18,16 @@ This dashboard transforms raw agricultural market data into actionable insights 
 - Market opportunity analysis using price, spread, and recent movement
 - Monthly, quarterly, MoM, and YoY analysis :contentReference[oaicite:3]{index=3}
 
-## Dashboard Pages
-- **Executive Overview** – overall market trends, top commodities, and top markets
-- **Volatility Analysis** – most volatile commodities and markets
-- **Market Opportunity** – top opportunity commodities and markets :contentReference[oaicite:4]{index=4}
+## Dashboard Screenshots
 
+### Executive Overview
+<img src="Dashboard/executive.png" alt="Executive Overview" width="1000"/>
+
+### Volatility Analysis
+<img src="Dashboard/volatility analysis.png" alt="Volatility Analysis" width="1000"/>
+
+### Market Opportunity
+<img src="Dashboard/market opportunity.png" alt="Market Opportunity" width="1000"/>
 ## Key Insights
 - Covered **104 commodities** across **26 markets**
 - Average modal price: **₹4.82K**
