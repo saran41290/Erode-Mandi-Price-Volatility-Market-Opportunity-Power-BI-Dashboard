@@ -1,10 +1,9 @@
 # Erode Mandi Price Volatility & Market Opportunity Dashboard
 
-A Power BI mini project analyzing **Erode mandi price data (2021–2025)** to identify **price trends, volatility, premium markets, and better selling opportunities**. :contentReference[oaicite:1]{index=1}
+A Power BI mini project analyzing **Erode mandi price data (2021–2025)** to identify **price trends, volatility, premium markets, and better selling opportunities**. 
 
 ## Project Overview
-This dashboard transforms raw agricultural market data into actionable insights for comparing commodities, markets, and seasonal price movement. It was built using **Excel, Power Query, Power BI, and DAX**. :contentReference[oaicite:2]{index=2}
-
+This dashboard transforms raw agricultural market data into actionable insights for comparing commodities, markets, and seasonal price movement. It was built using **Excel, Power Query, Power BI, and DAX**.
 ## Tools Used
 - Power BI
 - Power Query
@@ -16,18 +15,19 @@ This dashboard transforms raw agricultural market data into actionable insights 
 - Executive overview of price levels and market coverage
 - Volatility analysis using price spread
 - Market opportunity analysis using price, spread, and recent movement
-- Monthly, quarterly, MoM, and YoY analysis :contentReference[oaicite:3]{index=3}
+- Monthly, quarterly, MoM, and YoY analysis
 
 ## Dashboard Screenshots
 
 ### Executive Overview
-<img src="Dashboard/executive.png" alt="Executive Overview" width="1000"/>
+<img src="Dashboard/dashboard-executive .png" alt="Executive Overview" width="1000"/>
 
 ### Volatility Analysis
-<img src="Dashboard/volatility analysis.png" alt="Volatility Analysis" width="1000"/>
+<img src="Dashboard/dashboard-volatility analysis.png" alt="Volatility Analysis" width="1000"/>
 
 ### Market Opportunity
-<img src="Dashboard/market opportunity.png" alt="Market Opportunity" width="1000"/>
+<img src="Dashboard/dashboard-market opportunity.png" alt="Market Opportunity" width="1000"/>
+
 ## Key Insights
 - Covered **104 commodities** across **26 markets**
 - Average modal price: **₹4.82K**
@@ -35,18 +35,7 @@ This dashboard transforms raw agricultural market data into actionable insights 
 - Premium commodities: **Cashewnuts, Jasmine, Kakada**
 - Premium markets: **Mylampadi, Sivagiri, Moolanur**
 - Most volatile commodity: **Dry Chillies**
-- Most volatile market: **Moolanur** :contentReference[oaicite:5]{index=5}
-
-## Dashboard Screenshots
-
-### Executive Overview
-![Executive Overview](Dashboard/executive.png)
-
-### Volatility Analysis
-![Volatility Analysis](Dashboard/volatility analysis.png)
-
-### Market Opportunity
-![Market Opportunity](Dashboard/market opportunity.png)
+- Most volatile market: **Moolanur**
 
 ## Files in This Repository
 - `README.md`
@@ -56,7 +45,7 @@ This dashboard transforms raw agricultural market data into actionable insights 
 - `powerbi/`
 
 ## Project Outcome
-This project demonstrates how government mandi data can be used in Power BI to support **market comparison, volatility tracking, and selling opportunity analysis**. :contentReference[oaicite:6]{index=6}
+This project demonstrates how government mandi data can be used in Power BI to support **market comparison, volatility tracking, and selling opportunity analysis**. 
 
 ## Author
 **Saran**
