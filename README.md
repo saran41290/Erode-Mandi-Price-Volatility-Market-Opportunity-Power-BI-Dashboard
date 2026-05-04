@@ -28,7 +28,7 @@ This dashboard transforms raw agricultural market data into actionable insights 
 ### Market Opportunity
 <img src="Dashboard/dashboard-market opportunity.png" alt="Market Opportunity" width="1000"/>
 
-## Key Insights
+## Key Insights and Recommendations
 
 ### Market coverage and baseline
 - The analysis covers **104 commodities across 26 markets**, with an **average modal price of about ₹4.82K and an average price spread of about ₹650**.
