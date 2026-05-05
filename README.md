@@ -47,7 +47,7 @@ This dashboard transforms raw agricultural market data into actionable insights 
 - This means high price does not automatically mean low risk, so traders should combine price, spread, and recent movement when selecting commodities and markets in the next trading cycle.
 
 ### Opportunity signal
-- The dashboard identifies Bajra (Pearl Millet/Kambu) as the top opportunity commodity, Alangeyam as the top opportunity market, the highest MoM gain at ₹294.55, and the highest YoY gain at ₹11.21K.
+- The dashboard identifies **Bajra (Pearl Millet/Kambu) as the top opportunity commodity, Alangeyam as the top opportunity market, the highest MoM gain at ₹294.55, and the highest YoY gain at ₹11.21K**.
 - Users should monitor these opportunity signals in the next month and quarter because the strongest opportunities are where price strength, momentum, and manageable spread come together.
 
 ## Files in This Repository
